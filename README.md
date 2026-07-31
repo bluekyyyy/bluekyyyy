@@ -1,114 +1,15 @@
-<div align="center">Hi, I'm Arjun Balasubramanian 👋</div>
-
-<div align="center">
-
-Cybersecurity • Backend Development • CTF Player
+# 💫 About Me:
+Arjun Balasubramanian<br>Email: barjun1326@gmail.com<br>Phone: +91 9150225961<br>Website: https://blueky.netlify.app/<br>SUMMARY<br>Computer Science undergraduate specializing in Cybersecurity with a strong foundation in programming and problem-solving. Experienced in developing academic and security-focused projects, participating in Capture The Flag (CTF) competitions, and exploring software development concepts. Passionate about cybersecurity and applying programming skills to solve technical challenges.<br>Practical experience<br>Technical Team Lead - OWASP Student Chapter<br>Mentored junior members in cybersecurity fundamentals and Capture The Flag (CTF) methodologies through technical sessions and hands-on workshops.<br>Designed and developed CTF challenges across multiple categories, including Web, Cryptography, Reverse Engineering, Binary Exploitation (Pwn), Forensics, and OSINT.<br>Deployed and managed cloud-hosted CTF platforms, ensuring reliable challenge hosting and participant access.<br>Collaborated with the technical team to organize Capture The Flag (CTF) events and deliver hands-on cybersecurity learning experiences for over 250 participants.<br>SKILLS<br>Programming: Python, Go, JavaScript, SQL, HTML, CSS<br>Computer Science: Basic Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, Computer Networks, Database Fundamentals<br>Web & Backend: Flask, React (Basics), REST APIs, Docker<br>Cybersecurity: Network Security, Web Security, Linux, Windows, Wireshark, Burp Suite, Nmap, Splunk, Elastic SIEM, MITRE ATT&CK, OWASP Top 10<br>Databases & Tools: PostgreSQL, Redis, Git, Docker, AWS (Basics)<br>projects<br>1. Multi-Protocol Honeypot Network<br>Developed a multi-protocol honeypot simulating SSH, HTTP, FTP, SMB, MySQL, and Redis services to capture and analyze attacker activity.<br>Built a concurrent Go backend with REST APIs, WebSocket streaming, and an event-driven architecture for real-time event processing.<br>Developed a React dashboard to visualize attack events, MITRE ATT&CK mappings, and session replays in real time.<br>Implemented IOC extraction, threat intelligence export (STIX 2.1), and containerized deployment using Docker.<br>2. Network Packet Analyzer and CTF Flag Extractor<br>Developed a Python-based desktop application to analyze network packets and extract useful information from captured traffic.<br>Implemented packet parsing and filtering features to simplify network traffic analysis and protocol inspection.<br>Built automated tools to decode and reconstruct hidden or encoded flags commonly found in Capture The Flag (CTF) challenges.<br>3. Deepfake Detection Dashboard<br>Developed a Flask-based web application to analyze MP4 videos and PNG images for potential deepfake content.<br>Implemented metadata analysis and frame-level deepfake detection using a machine learning model.<br>Built an interactive dashboard to visualize confidence scores, suspicious frames, and analysis results.<br>Containerized the application with Docker for consistent deployment and execution.<br>EDUCATION<br>Secondary, Higher Secondary<br>Sathyabama Institute of Science and Technology (Chennai, India)<br>2023 - 2027<br>B.E. in Computer Science and Engineering (Cybersecurity Specialization)<br>Indian School Al Wadi Al Kabir (Muscat, Oman)<br>2011 - 2023<br>LinkedIn: www.linkedin.com/in/arjun-balasubramanian<br>GitHub: https://github.com/bluekyyyy<br>CERTIFICATIONS & ACHIEVEMENTS<br>Google Cybersecurity Professional Certificate (Coursera): Professional cybersecurity foundations<br>TryHackMe - Cybersecurity 101: Cybersecurity fundamentals and basics<br>CTF Competitions: 1st Place - WARGAMES CTF, 1st Place - COSMOS CTF, 2nd Place - HackOps CTF<br>March 2026 - Present
 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=bluekyyyy&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=bluekyyyy&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bluekyyyy&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Technical+Team+Lead+%40+OWASP;CTF+Challenge+Author;Go+%7C+Python+%7C+Flask+Developer;Always+Learning+Something+New"/>
+---
+[![](https://komarev.com/ghpvc/?username=bluekyyyy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
-
-About Me
-
-Computer Science undergraduate specializing in Cybersecurity at Sathyabama Institute of Science and Technology.
-
-Technical Team Lead – OWASP Student Chapter
-
-Passionate about Network Security, Backend Engineering and Digital Forensics
-
-Build security-focused applications and CTF infrastructure
-
-Enjoy solving real-world security challenges
-
-Tech Stack
-
-
-
-Security Tools
-
-Burp Suite • Nmap • Wireshark • Splunk • Elastic SIEM • MITRE ATT&CK
-
-Featured Projects
-
-Multi-Protocol Honeypot Network
-
-Go backend
-
-React dashboard
-
-WebSocket streaming
-
-MITRE ATT&CK mapping
-
-IOC extraction
-
-STIX 2.1 export
-
-Network Packet Analyzer & CTF Flag Extractor
-
-PCAP/PCAPNG analysis
-
-Protocol inspection
-
-Packet filtering
-
-Automated CTF flag reconstruction
-
-Base64/Base32/Hex decoding
-
-Deepfake Detection Dashboard
-
-Flask
-
-ML-assisted analysis
-
-Docker deployment
-
-Interactive dashboard
-
-Experience
-
-Technical Team Lead — OWASP Student Chapter
-
-Mentored junior members in cybersecurity and CTFs
-
-Created Web, Crypto, Reverse, Pwn, Forensics and OSINT challenges
-
-Managed cloud-hosted CTF infrastructure
-
-Organized events for 250+ participants
-
-Achievements
-
-🥇 WARGAMES CTF — 1st Place
-
-🥇 COSMOS CTF — 1st Place
-
-🥈 HackOps CTF — 2nd Place
-
-Google Cybersecurity Professional Certificate
-
-TryHackMe Cybersecurity 101
-
-GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bluekyyyy&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluekyyyy&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=bluekyyyy&theme=tokyonight"/>
-</p>
-
-Connect
-
-Portfolio: https://blueky.netlify.app/
-
-LinkedIn: https://www.linkedin.com/in/arjun-balasubramanian
-
-GitHub: https://github.com/bluekyyyy
-
-Email: barjun1326@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
